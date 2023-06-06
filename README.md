@@ -1,4 +1,4 @@
-# FhChinaski-
+# FhChinaski
 This iy my personal repo for README
 # 💫 About Me:
 🛰️  I'm currently working in telecom and IT support in the entertainment industry<br>🙋🏽‍♂️ I'm looking to collaborate on artificial intelligence and machine learning projects or applications that are based on..<br>☝🏽 I'm looking for help in starting a career as a programmer in backend and python<br>🌱 I'm currently learning Front-End Developer and Ethical Hacking<br>💬 Ask me about education tips or how to lose fear to interact or speak in public
